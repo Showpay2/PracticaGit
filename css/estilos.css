@@ -1,0 +1,25 @@
+/* Resetear estilos por defecto del navegador */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #3498db; /* Color de fondo azul */
+    color: #ffffff; /* Color del texto blanco */
+    padding: 20px; /* Espaciado interno del encabezado */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Estilo para los artículos */
+article {
+    border: 1px solid #3498db; /* Borde delgado azul alrededor del artículo */
+    margin: 10px; /* Márgenes exteriores */
+    padding: 15px; /* Espaciado interno del artículo */
+}
+
+/* Estilo para los títulos de los artículos */
+article h2 {
+    color: #3498db; /* Color del título azul */
+}
